@@ -1,0 +1,15 @@
+artifact_uri: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/6106d7d805d24595abb95f16cfc1f4e1/artifacts
+end_time: 1743359334632
+entry_point_name: ''
+experiment_id: '398960170301855503'
+lifecycle_stage: active
+run_id: 6106d7d805d24595abb95f16cfc1f4e1
+run_name: Dataset Info
+run_uuid: 6106d7d805d24595abb95f16cfc1f4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743359334576
+status: 3
+tags: []
+user_id: devitala

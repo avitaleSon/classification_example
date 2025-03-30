@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743360286815
+current_stage: None
+description: ''
+last_updated_timestamp: 1743360286815
+name: Logistic Regression
+run_id: 554314017070414dbf8fe2655318f61a
+run_link: ''
+source: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/554314017070414dbf8fe2655318f61a/artifacts/Logistic
+  Regression
+status: READY
+status_message: null
+storage_location: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/554314017070414dbf8fe2655318f61a/artifacts/Logistic
+  Regression
+user_id: null
+version: 2

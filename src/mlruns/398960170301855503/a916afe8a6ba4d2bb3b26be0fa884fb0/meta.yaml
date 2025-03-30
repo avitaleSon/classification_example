@@ -1,0 +1,15 @@
+artifact_uri: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/a916afe8a6ba4d2bb3b26be0fa884fb0/artifacts
+end_time: 1743359134301
+entry_point_name: ''
+experiment_id: '398960170301855503'
+lifecycle_stage: active
+run_id: a916afe8a6ba4d2bb3b26be0fa884fb0
+run_name: Logistic Regression
+run_uuid: a916afe8a6ba4d2bb3b26be0fa884fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743359134278
+status: 4
+tags: []
+user_id: devitala

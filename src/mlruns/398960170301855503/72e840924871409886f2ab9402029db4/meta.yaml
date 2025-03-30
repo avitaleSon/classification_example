@@ -1,0 +1,15 @@
+artifact_uri: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/72e840924871409886f2ab9402029db4/artifacts
+end_time: 1743358502505
+entry_point_name: ''
+experiment_id: '398960170301855503'
+lifecycle_stage: active
+run_id: 72e840924871409886f2ab9402029db4
+run_name: XGBoost
+run_uuid: 72e840924871409886f2ab9402029db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743358502467
+status: 3
+tags: []
+user_id: devitala

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/496413207860761210/687f9453125740f5928469f6716de52b/artifacts
+deleted_time: 1743358383784
+end_time: 1743358221871
+entry_point_name: ''
+experiment_id: '496413207860761210'
+lifecycle_stage: deleted
+run_id: 687f9453125740f5928469f6716de52b
+run_name: Random Forest
+run_uuid: 687f9453125740f5928469f6716de52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743358221838
+status: 3
+tags: []
+user_id: devitala

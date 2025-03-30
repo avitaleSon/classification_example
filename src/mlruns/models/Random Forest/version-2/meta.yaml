@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1743360293721
+current_stage: None
+description: ''
+last_updated_timestamp: 1743360293721
+name: Random Forest
+run_id: 0c34b0a306e94f9992cf53fdb934acfd
+run_link: ''
+source: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/0c34b0a306e94f9992cf53fdb934acfd/artifacts/Random
+  Forest
+status: READY
+status_message: null
+storage_location: file:///home/EU/devitala/Documents/GitRepo/classification_example/src/mlruns/398960170301855503/0c34b0a306e94f9992cf53fdb934acfd/artifacts/Random
+  Forest
+user_id: null
+version: 2
